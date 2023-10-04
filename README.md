@@ -6,3 +6,6 @@
 - pip
 - pip and pip tools
 - pip code
+- pip text
+- pip mirror
+
