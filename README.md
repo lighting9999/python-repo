@@ -1,4 +1,4 @@
-﻿# Python-repo
+# Python-repo
 # 1.概述
 这是一个Python插件库,你可以找到后缀名为`.whl`的Python包，并进行下载操作。
 # 2.插件库所包含的库
@@ -20,4 +20,4 @@
 
 # 3.下载地址
 - pip
-- pip and pip tools [下载链接：]（https://gitee.com/lighting9999/python-repo/raw/main/python插件库/pip-and-pip-tools/pip_and_pip_tools-7.0.0-py2.py3-none-any.whl）
+- pip and pip tools  下载链接：<https://gitee.com/lighting9999/python-repo/raw/main/python插件库/pip-and-pip-tools/pip_and_pip_tools-7.0.0-py2.py3-none-any.whl>
