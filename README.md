@@ -17,7 +17,3 @@
 - pip2p
 - pygame
 - pygame-2048
-
-# 3.下载地址
-- pip  下载链接: <https://gitee.com/lighting9999/python-repo/raw/main/python插件库/pip/pip-23.2.1-py3-none-any.whl>
-- pip and pip tools  下载链接:<https://gitee.com/lighting9999/python-repo/raw/main/python插件库/pip-and-pip-tools/pip_and_pip_tools-7.0.0-py2.py3-none-any.whl>
