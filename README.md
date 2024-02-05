@@ -14,6 +14,7 @@
 - pip-run
 - pip-update
 - pip-upgrader
+- pip-gun
 - pip2p
 - pygame
 - pygame-2048
